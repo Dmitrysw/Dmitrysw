@@ -1,0 +1,3 @@
+- 👋 Hi, my name Dmitry Shatalov, now i styding machinge learning.
+- 🌱 I am currently taking a machine learning course from https://ods.ai/
+- 📫 Email: ShatalovDmitryS@gmail.com
